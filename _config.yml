@@ -1,10 +1,9 @@
 theme: jekyll-theme-hacker
-title: Welcome to my Journey/.
-description: Live-Laugh-Work Smart
-image: 
+#title: Welcome to my Journey/.
+#description: Live-Laugh-Work Smar 
 
 #User Specific Content
 #Navbar Links
-primarylinks:
+#primarylinks:
 -title: Gmail
 -url: <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
