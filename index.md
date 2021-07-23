@@ -1,3 +1,7 @@
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AasuraA/AasuraA.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
