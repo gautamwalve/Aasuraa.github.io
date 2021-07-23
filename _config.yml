@@ -1,6 +1,5 @@
 theme: jekyll-theme-tactile
 github:
   is_project_page: false
-navbar-links:
- Gmail : <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
- LinkedIn : <a href="https://www.linkedin.com/in/gautamwalve/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+Gmail : <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+LinkedIn : <a href="https://www.linkedin.com/in/gautamwalve/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
