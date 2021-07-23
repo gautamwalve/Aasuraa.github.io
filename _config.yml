@@ -1,11 +1,8 @@
 theme: jekyll-theme-minimal
-title: <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-#description: Live-Laugh-Work Smar 
 github:
   is_project_page: false
-
-#User Specific Content
+title: <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+Usser Specific Content
 #Navbar Links
-#primarylinks:
--title: Gmail
--url: <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+primarylinks:
+-title: <a href="https://www.linkedin.com/in/gautamwalve/"><img src="https://mk0bsocialb8hfohk5a1.kinstacdn.com/wp-content/uploads/2018/03/LinkedIn_annoncering.png"/></a>
