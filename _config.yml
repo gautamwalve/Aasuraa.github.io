@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
-  title:<img src = "https://media-exp1.licdn.com/dms/image/C4E03AQEcoBQSUAEAMw/profile-displayphoto-shrink_800_800/0/1613662973953?e=1632355200&v=beta&t=nb_wmf1IS43fH7hqrLXnCvNHzrb7PuOhn5A5o-UFJt0"/>
+  title: <img src = "https://media-exp1.licdn.com/dms/image/C4E03AQEcoBQSUAEAMw/profile-displayphoto-shrink_800_800/0/1613662973953?e=1632355200&v=beta&t=nb_wmf1IS43fH7hqrLXnCvNHzrb7PuOhn5A5o-UFJt0"/>
 primarylinks:
->title: <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
->title: <a href="https://www.linkedin.com/in/gautamwalve/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+title: <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+-title: <a href="https://www.linkedin.com/in/gautamwalve/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
