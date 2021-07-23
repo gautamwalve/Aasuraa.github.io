@@ -2,7 +2,7 @@
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-## Welcome to GitHub Pages
+## <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    <a href="https://www.linkedin.com/in/gautamwalve/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
 You can use the [editor on GitHub](https://github.com/AasuraA/AasuraA.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
