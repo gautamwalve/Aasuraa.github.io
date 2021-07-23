@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
-title: "Gautam Walve"
+name: "Gautam Walve"
+company: "DHFL"
+title: "Assistant Manager: Operations"
