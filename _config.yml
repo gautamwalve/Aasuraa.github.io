@@ -1,6 +1,8 @@
 theme: jekyll-theme-hacker
 title: <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 #description: Live-Laugh-Work Smar 
+github:
+  is_project_page: false
 
 #User Specific Content
 #Navbar Links
