@@ -14,16 +14,31 @@
 - **Assistant Manager: Operations**<br>
 December 2020..Present<br>
 > **Job Profile**:<br> 
->- Hands on strategy execution,maintaining and reporting on Post Disbursement Documents
+>- Hands on strategy execution,streamling,maintaining and reporting on Post Disbursement Documents
 >- Follow ups and Closures for Internal Audit Queries
 >- Responsible for preparation of Operations Team Reports & Summary for showcasing to Stakeholders
 
 **Assistant Manager: Recovery**<br>
 February 2020..December 2020<br>
-Job Profile:<br>
--Follow up & Recovery of Deliqueny Cases of 10+Buckets
+> **Job Profile**:<br>
+>- Follow up & Recovery of Deliqueny Cases of 10+Buckets of Projects Karram and Tanaji Malusare City on Daily Basis
+>- Maintain Rapport and Report
+>- Clearance of Dues/Maintaining Relationship/Payment dues/Report with existing Project LivSmart
 
-
+**Assistant Manager: Recovery**<br>
+October 2016..February 2020<br>
+> **Achievements**:<br>
+>- Driven the Business from 5Crs. to 81 Crs since joining the team.
+>- Standarised S.O.P for Project LivSmart: Resulting in reduction of queries by Sales/Recovery/Accounts/Customers by 85% 
+> **Job Profile**:<br>
+>- Standardizing Process for Direct Sourcing Business: Pan India with respect to Reports/Leads Sharing.
+>- Played a Key role of market strategy to rope in New Agents under DPLI to increase revenue generation for Channel Phoenix
+>- Initiated Rewards & Recognition Scheme for the Channel
+>- Initiated Automatic Update Mailers to better summarise the Channel Progress/Activity.
+>- Strategizing with stakeholders to optimise utilisation of their channel
+>- Handholding and Driving Channels for a Target Driven Portfolio
+>- Established MIS for better Tracking and Follow up
+>- Brainstorming for constant imporvements of Channels based on Feedbacks and Requirements
 
 
 You can use the [editor on GitHub](https://github.com/AasuraA/AasuraA.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
