@@ -4,6 +4,17 @@
 
 ## <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    <a href="https://www.linkedin.com/in/gautamwalve/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
+```
+A Creative and a Curious Personality with a penchant to delve deeper into the world of coding and Artificial Intelligence.
+```
+### Experience
+**Assistant Manager: Operations**<br>
+December 2020..Present<br>
+Job Profile:<br> 
+-Hands on strategy execution,maintaining and reporting on Post Disbursement Documents
+
+
+
 You can use the [editor on GitHub](https://github.com/AasuraA/AasuraA.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
