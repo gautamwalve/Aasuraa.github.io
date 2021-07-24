@@ -97,4 +97,4 @@ January 2015..September 2015<br>
 
 **B.Sc. Biotechnology**<br>
 >Elphinstone College of Arts, Commerce and Science<br>
->2011-2014<br>
+>2010-2014<br>
