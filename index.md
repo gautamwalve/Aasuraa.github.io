@@ -11,7 +11,7 @@
 ## A Creative and a Curious Personality with a penchant to delve deeper into the world of coding and Artificial Intelligence.
 
 ### Experience
-- **Assistant Manager: Operations**<br>
+**Assistant Manager: Operations**<br>
 December 2020..Present <br>
 > **Job Profile**:<br> 
 >- Hands on strategy execution,streamling,maintaining and reporting on Post Disbursement Documents
