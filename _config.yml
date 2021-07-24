@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
-name: "Gautam Walve"
-company: "DHFL"
-job_title: "Assistant Manager: Operations"
+title: "Gautam Walve" <br>"DHFL"<br>"Assistant Manager: Operations"
