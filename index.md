@@ -11,21 +11,21 @@
 ## A Creative and a Curious Personality with a penchant to delve deeper into the world of coding and Artificial Intelligence.
 
 ### Experience
-**Assistant Manager: Operations**<br>
+**Assistant Manager, Operations**<br>
 December 2020..Present <br>
 > **Job Profile**:<br> 
 >- Hands on strategy execution,streamling,maintaining and reporting on Post Disbursement Documents
 >- Follow ups and Closures for Internal Audit Queries
 >- Responsible for preparation of Operations Team Reports & Summary for showcasing to Stakeholders
 
-**Assistant Manager: Recovery**<br>
+**Assistant Manager, Recovery**<br>
 February 2020..December 2020<br>
 > **Job Profile**:<br>
 >- Follow up & Recovery of Deliqueny Cases of 10+Buckets of Projects Karram and Tanaji Malusare City on Daily Basis
 >- Maintain Rapport and Report
 >- Clearance of Dues/Maintaining Relationship/Payment dues/Report with existing Project LivSmart
 
-**Assistant Manager: Institutional Sales & Alliances**<br>
+**Assistant Manager, Institutional Sales & Alliances**<br>
 April 2018..February 2020<br>
 
 
@@ -48,7 +48,7 @@ April 2018..February 2020<br>
 >- Tracking and Follow up for Resolution of NPA & Bucketed Cases
 >- Attending and Resolving Customer Queries
 
-**Management Trainee: Institutional Sales & Alliances** <br>
+**Management Trainee, Institutional Sales & Alliances** <br>
 July 2017..April 2018<br>
 
 >**Achievements**:<br>
@@ -59,7 +59,7 @@ July 2017..April 2018<br>
 >- Maintaining MIS for Corporate DSA and Referral Channel.
 >- Driving and Facilitating Referral Channel Partner Business Pan India **(Channel: Phoenix)**
 
-**Management Trainee: Home Loan Sales**<br>
+**Management Trainee, Home Loan Sales**<br>
 April 2017..July 2017<br>
 
 > **Job Profile**:<br>
@@ -74,7 +74,7 @@ October 2016..April 2017<br>
 >- Understanding the process and policy, while undergoing training in different departments of the organisation(Sales/Credit/Operations/Recovery)
 >- Hands on Training with Live Cases to ascertain and deduce fair outcome.
 
-**Executive: Tiny Owl Technologies Pvt. Ltd**<br>
+**Executive, Tiny Owl Technologies Pvt.Ltd**<br>
 January 2015..September 2015<br>
 
 > **Job Profile**:<br>
