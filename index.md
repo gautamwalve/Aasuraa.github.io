@@ -11,10 +11,18 @@
 ## A Creative and a Curious Personality with a penchant to delve deeper into the world of coding and Artificial Intelligence.
 
 ### Experience
-**Assistant Manager: Operations**<br>
+- **Assistant Manager: Operations**<br>
 December 2020..Present<br>
-Job Profile:<br> 
--Hands on strategy execution,maintaining and reporting on Post Disbursement Documents
+> Job Profile:<br> 
+>- Hands on strategy execution,maintaining and reporting on Post Disbursement Documents
+>- Follow ups and Closures for Internal Audit Queries
+>- Responsible for preparation of Operations Team Reports & Summary for showcasing to Stakeholders
+
+**Assistant Manager: Recovery**<br>
+February 2020..December 2020<br>
+Job Profile:<br>
+-Follow up & Recovery of Deliqueny Cases of 10+Buckets
+
 
 
 
