@@ -2,7 +2,9 @@
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-## <a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    <a href="https://www.linkedin.com/in/gautamwalve/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<nav>
+<a href="mailto:gautamwalve@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    <a href="https://www.linkedin.com/in/gautamwalve/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+</nav>
 
 ```
 A Creative and a Curious Personality with a penchant to delve deeper into the world of coding and Artificial Intelligence.
