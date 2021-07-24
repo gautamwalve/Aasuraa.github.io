@@ -12,7 +12,7 @@
 
 ### Experience
 - **Assistant Manager: Operations**<br>
-December 2020..Present<br>
+December 2020..Present <br>
 > **Job Profile**:<br> 
 >- Hands on strategy execution,streamling,maintaining and reporting on Post Disbursement Documents
 >- Follow ups and Closures for Internal Audit Queries
@@ -25,11 +25,12 @@ February 2020..December 2020<br>
 >- Maintain Rapport and Report
 >- Clearance of Dues/Maintaining Relationship/Payment dues/Report with existing Project LivSmart
 
-**Assistant Manager: Recovery**<br>
-October 2016..February 2020<br>
-> **Achievements**:<br>
->- Driven the Business from 5Crs. to 81 Crs since joining the team.
->- Standarised S.O.P for Project LivSmart: Resulting in reduction of queries by Sales/Recovery/Accounts/Customers by 85% 
+**Assistant Manager: Institutional Sales & Alliances**<br>
+April 2018..February 2020<br>
+
+**Achievements**:<br>
+- Driven the Business from 5Crs. to 81 Crs since joining the team.
+- Standarised S.O.P for Project LivSmart: Resulting in reduction of queries by Sales/Recovery/Accounts/Customers by 85%<br>
 > **Job Profile**:<br>
 >- Standardizing Process for Direct Sourcing Business: Pan India with respect to Reports/Leads Sharing.
 >- Played a Key role of market strategy to rope in New Agents under DPLI to increase revenue generation for Channel Phoenix
@@ -39,40 +40,38 @@ October 2016..February 2020<br>
 >- Handholding and Driving Channels for a Target Driven Portfolio
 >- Established MIS for better Tracking and Follow up
 >- Brainstorming for constant imporvements of Channels based on Feedbacks and Requirements
+>- **Project LivSmart**:<br>
+>>- Project being under Subvention:  a Customer Tracking Method to ensure standardized monthly accounts dedecutions for customer and builder
+>>- Tracking and Follow up for Resolution of NPA & Bucketed Cases
+>>- Attending and Resolving Customer Queries
 
+**Management Trainee: Institutional Sales & Alliances**<br>
+July 2017..April 2018<br>
 
-You can use the [editor on GitHub](https://github.com/AasuraA/AasuraA.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**Achievements**:<br>
+Awarded with **Special Recognition Certificate of Excellence by DHFL Pramerica Life Insurance** for contribution to their Insurance portfolio via Referral Channel **"Phoenix"** .br>
+> **Job Profile**:<br>
+>- Understanding essence of developing and nurturing corporate relationship.
+>- Maintaining MIS for Corporate DSA and Referral Channel.
+>- Driving and Facilitating Referral Channel Partner Business Pan India **(Channel: Phoenix)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Management Trainee: Home Loan Sales**<br>
+April 2017..July 2017<br>
 
-### Markdown
+> **Job Profile**:<br>
+>- Identification, Evaluation and Submission of Applications for Customers via Direct Walks-Ins or Via Connector/DSA Business
+>- Identifying and Driving Empanelled DSA for Business Sourcing 
+>- Meeting up with Stakeholders to drive and improve Business outflows
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Intern: Home Loan Sales**<br>
+October 2016..April 2017<br>
 
-```markdown
-Syntax highlighted code block
+> **Job Profile**:<br>
+>- Understanding the process and policy, while undergoing training in different departments of the organisation(Sales/Credit/Operations/Recovery)
+>- Hands on Training with Live Cases to ascertain and deduce fair outcome.
 
-# Header 1
-## Header 2
-### Header 3
+**Executive: Tiny Owl Technologies Pvt. Ltd**<br>
+January 2015..September 2015<br>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AasuraA/AasuraA.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> **Job Profile**:<br>
+> Cataloguing, Analysing and Verification of Data, shared by Restaurants across India.
